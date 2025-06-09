@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @digvipatil08
-- 👀 I’m interested in Deep learning
-- 🌱 I’m currently learning learing
-- 💞️ I’m looking to collaborate on @bharatintern
+- 👀 I’m interested in Full Stack Developer 
+- 🌱 I’m currently searching for opening 
 - 📫 How to reach me digvi.patil07@gmail.com 
 
 <!---
